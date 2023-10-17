@@ -45,3 +45,10 @@ This project was made for educational purposes and personal use. You hold respon
 - Show enemies
 - Show friendly
 - Color
+
+## 🌟〢Changelogs
+
+Version 2.9 | 17/10/2023
++ Improved compability
++ Added many new features
++ Bugfixes
